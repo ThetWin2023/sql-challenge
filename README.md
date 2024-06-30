@@ -1,9 +1,9 @@
 # sql-challenge
 
 # Data Analytics and Visualization Bootcamp (University of Toronto) 
-# Student Name: Thet Win
-# Date Modified: June 29, 2024
-# Module 9 Challenge - SQL
+## Student Name: Thet Win
+## Date Modified: June 29, 2024
+## Module 9 Challenge - SQL
 
 This SQL program imports the CSV files into a SQL database and the following Data Analysis was carried out:
 
